@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | My Personal Site</title>
+    <style>
+        /* Basic styling for structure visibility */
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; }
+        nav { margin-bottom: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px; }
+        nav a { margin-right: 15px; text-decoration: none; color: blue; }
+        footer { margin-top: 50px; font-size: 0.8em; color: gray; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="topic.html">My Passion</a>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Welcome to My Site</h1>
+
+        <p>
+            [Placeholder: Write a brief introduction about yourself, your background, 
+            or the primary purpose of this website here. Mention what visitors can 
+            expect to find as they navigate through your pages.]
+        </p>
+
+        <section>
+            <h2>Site Objectives</h2>
+            <ul>
+                <li>[Placeholder: Goal 1]</li>
+                <li>[Placeholder: Goal 2]</li>
+                <li>[Placeholder: Goal 3]</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 [Your Name]. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
